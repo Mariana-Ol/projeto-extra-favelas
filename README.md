@@ -6,11 +6,11 @@
 
 ## Sobre o projeto
 Este projeto desenvolve uma pipeline de Processamento de Linguagem Natural (PLN) e Recuperação Aumentada por Geração (RAG) aplicada a um corpus de notícias do jornal *Extra* sobre favelas. Os objetivos principais são desenvolver análises a respeito de matérias que mencionam o termo "favela" veiculados neste portal de notícias, com a intenção de responder a perguntas como:
-* Quando o território é notícia, quem é o protaginista da ação? Quais agentes ganham mais destaque nessas matérias: os moradores? As instituições públicas? Os criminosos?
+* Quando o território é notícia, quem é o protagonista da ação? Quais agentes ganham mais destaque nessas matérias: os moradores? As instituições públicas? Os criminosos?
 * A favela aparece majoritariamente relacionada a casos de violência urbana ou a projetos sociais/culturais?
 * Há territórios super-representados pelo portal? Qual é a geografia das notícias?
 
-Para alcançar esses objetivos, pretendo, além de realizar uma análise exploratória dos dados coletados, utlizando técnicas de PLN, indexar os dados, indexar os dados jornalísticos e utilizar uma arquitetura RAG para permitir consultas inteligentes e análises exploratórias avançadas por meio de bancos de dados vetoriais.
+Para alcançar esses objetivos, pretendo, além de realizar uma análise exploratória dos dados coletados, utilizando técnicas de PLN, indexar os dados jornalísticos e utilizar uma arquitetura RAG para permitir consultas inteligentes e análises exploratórias avançadas por meio de bancos de dados vetoriais.
 
 ## O que foi feito:
 * Coleta automatizada de matérias do portal de notícias Extra utilizando Selenium e consolidação dos dados em um csv: **corpus_favela_extra.csv**. Foram coletadas as matérias que contêm a palavra-chave "favela".
