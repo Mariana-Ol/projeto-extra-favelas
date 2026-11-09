@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mariana-Ol/projeto-extra-favelas/blob/main/notebooks/indexacao_vetorial.ipynb)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/status-concluído-success.svg)]()
+[![Status](https://img.shields.io/badge/status-em%20andamento-yellow.svg)]()
 
 ## 📌 Sobre o projeto
 Este projeto desenvolve uma pipeline de Processamento de Linguagem Natural (PLN) e Recuperação Aumentada por Geração (RAG) aplicada a um corpus de notícias do jornal *Extra* sobre favelas. O objetivo principal é estruturar, limpar e indexar textual e semanticamente os dados jornalísticos, permitindo consultas inteligentes e análises exploratórias avançadas por meio de bancos de dados vetoriais.
